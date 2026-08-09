@@ -1,5 +1,3 @@
-<img width="1360" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/827e8bc9-8ec2-4a84-a328-ffa00c44d07a" />
-
 🚀 All-in-One IPTV Portal Manager (Xtream, Stalker & Dual Editor) By TAPAS MONDAL ⚡
 Welcome to the official repository of IPTV Portal & M3U Playlist Manager! This is a powerful, all-in-one IPTV playlist management, conversion, and editing software designed to handle M3U playlists, Xtream Codes, Stalker portals, and advanced dual-panel editing effortlessly.
 
@@ -28,3 +26,4 @@ If you have any questions, encounter activation issues, or want to share your fe
 
 WhatsApp Support: [ 01710697461 ]
 
+<img width="1360" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/827e8bc9-8ec2-4a84-a328-ffa00c44d07a" />
