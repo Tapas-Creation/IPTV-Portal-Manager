@@ -28,4 +28,7 @@ If you have any questions, encounter activation issues, or want to share your fe
 
 WhatsApp Support: [ 01710697461 ]
 
+👉 <a href="https://m.me/j/AbZInGDM3MVb7LP4/?send_source=gc%3Acopy_invite_link_t" target="_blank">Join our Facebook Group</a> to discuss, ask questions, and connect with other users.
+
+
 <img width="1360" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/827e8bc9-8ec2-4a84-a328-ffa00c44d07a" />
