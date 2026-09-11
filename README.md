@@ -32,3 +32,8 @@ WhatsApp Support: [ 01710697461 ]
 
 
 <img width="1360" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/827e8bc9-8ec2-4a84-a328-ffa00c44d07a" />
+
+NEW Update....11-09-2026
+
+
+<img width="1360" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/8c89dcf5-cec2-469c-a0a7-30f622884b56" />
