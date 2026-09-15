@@ -1,4 +1,4 @@
-🚀 All-in-One IPTV Enterprise Portal Manager (Xtream & Stalker to M3U, Dual Panel System M3U Editor, TVG URL Update, GitHub Management Suite, Lifetime Movie Server, Lifetime M3U Latest Downloader, etc.) By TAPAS MONDAL ⚡
+🚀 All-in-One IPTV **Enterprise Portal Manager** (Xtream & Stalker to M3U, Dual Panel System M3U Editor, TVG URL Update, GitHub Management Suite, Lifetime Movie Server, Lifetime M3U Latest Downloader, etc.) By TAPAS MONDAL ⚡
 
 Welcome to the official repository of All-in-One IPTV Enterprise Portal Manager! This is a powerful, all-in-one IPTV playlist management, conversion, and editing software designed to handle Xtream & Stalker to M3U conversion, dual-panel system M3U editing, TVG URL updates, GitHub management, lifetime movie servers, and lifetime M3U downloading effortlessly.
 
