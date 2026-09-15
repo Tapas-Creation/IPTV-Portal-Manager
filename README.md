@@ -6,7 +6,8 @@ Welcome to the official repository of All-in-One IPTV Enterprise Portal Manager!
 🚀 Key Features & How to Use
 ----------------------------------
 
-**1. Xtream & Stalker to M3U**
+
+1. Xtream & Stalker to M3U
 ---------------------------   
 
 (Option A: Using Xtream Codes)
@@ -28,6 +29,7 @@ Enter your Portal URL and the target MAC Address in the designated fields.
 Click the "Test MAC & Get Categories" button. Choose your preferred stream categories or select "All Categories" as needed.
 
 Click "Generate Stalker M3U Playlist" to automatically generate and save your custom .m3u playlist file directly to your desktop!
+
 
 **2. M3U Editor Pro (Dual M3U Playlist Editor)**
 
