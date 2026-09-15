@@ -8,7 +8,8 @@ Welcome to the official repository of All-in-One IPTV Enterprise Portal Manager!
 
 **1. Xtream & Stalker to M3U**
 ---------------------------   
-Option A: Using Xtream Codes
+
+(Option A: Using Xtream Codes)
 
 Select the "Xtream Codes" option from the menu.
 
