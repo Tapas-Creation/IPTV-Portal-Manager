@@ -2,13 +2,11 @@
 
 Welcome to the official repository of All-in-One IPTV Enterprise Portal Manager! This is a powerful, all-in-one IPTV playlist management, conversion, and editing software designed to handle Xtream & Stalker to M3U conversion, dual-panel system M3U editing, TVG URL updates, GitHub management, lifetime movie servers, and lifetime M3U downloading effortlessly.
 
------------------------------
+----------------------------------
 🚀 Key Features & How to Use
------------------------------
+----------------------------------
 
 1. Xtream & Stalker to M3U
---------------------------
-
 Option A: Using Xtream Codes
 
 Select the "Xtream Codes" option from the menu.
@@ -19,10 +17,7 @@ Click the "Test Account & Get Categories" button. Choose your preferred stream c
 
 Click "Generate Xtream M3U Playlist" to automatically generate and save your custom .m3u playlist file directly to your desktop!
 
-
 Option B: Stalker MAC
----------------------
-
 Select the "Stalker MAC" option from the menu.
 
 Enter your Portal URL and the target MAC Address in the designated fields.
@@ -31,10 +26,7 @@ Click the "Test MAC & Get Categories" button. Choose your preferred stream categ
 
 Click "Generate Stalker M3U Playlist" to automatically generate and save your custom .m3u playlist file directly to your desktop!
 
-
 2. M3U Editor Pro (Dual M3U Playlist Editor)
---------------------------------------------
-
 Open and manage two M3U files (or links) side-by-side using the dedicated dual-panel interface (Playlist Editor One and Playlist Editor Two).
 
 Enjoy full editing control over categories and individual channels across both panels.
@@ -45,10 +37,7 @@ Preview streams instantly with built-in player support for each panel, and expor
 
 Fully equipped with global shortcut support (Ctrl + Z for Undo and Ctrl + Shift + Z for Redo) on both panels.
 
-
 3. TVG URL Update
------------------
-
 Select the "TVG URL Update" option from the menu.
 
 Enter your Portal URL or browse/select the file in the designated fields.
@@ -57,41 +46,28 @@ Click the "Categories, All or Selected Channels" button, then enter your TVG URL
 
 Click "Save M3U" and choose your folder path to save your custom M3U playlist.
 
-
 4. All M3U Downloader
----------------------
-
 Select the "All M3U Downloader" option from the menu. Click the Server Menu and select a server.
 
 View all M3U files in the M3U box, then select a file and click the "Download" button.
 
 Choose your folder path to save your M3U playlist.
 
-
 5. GitHub Management Suite
---------------------------
-
 Select the "GitHub Management Suite" option from the menu. Enter your GitHub token and click the "Load" button.
 
 Enjoy full repository access (Download, Delete, Upload/Overwrite, etc.).
 
-
 6. Movies Lifetime Active
---------------------------
-
 Select the "Movies Lifetime Active" option from the menu to enjoy 1000+ movies.
 
-
----------------------------------
+---------------------------------------
 ⚠️ Disclaimer & Important Notice
----------------------------------
+---------------------------------------
 Please Note: The provider reserves the right to modify, change, or update app options, features, or server settings at any time without prior notice.
 
-
 💬 Need Help or Have Questions?
---------------------------------
 If you have any questions, encounter activation issues, or want to share your feedback, feel free to reach out to our community:
-
 
 WhatsApp Support: [+8801710697461]
 
