@@ -90,20 +90,29 @@ TAPAS MONDAL
 
 👉 <a href="https://m.me/j/AbZInGDM3MVb7LP4/?send_source=gc%3Acopy_invite_link_t" target="_blank">Join our Facebook Group</a> to discuss, ask questions, and connect with other users.
 
-Main Woindo
+**software per screenshot**
+
+MAIN WINDOW + All M3U DOWNLODER
+
 <img width="1360" height="768" alt="1 (1)" src="https://github.com/user-attachments/assets/35ccade8-5272-4177-b453-cd2a6584046f" />
 
-
-NEW Update....11-09-2026
-
+MAIN WINDOW + XTREAM & STALKER TO M3U
 
 <img width="1360" height="768" alt="1 (2)" src="https://github.com/user-attachments/assets/3e972c30-17fd-4932-bf20-25f40b6b332b" />
 
+MAIN WINDOW + DUAL M3U EDITOR
+
 <img width="1360" height="768" alt="1 (3)" src="https://github.com/user-attachments/assets/e1dc021e-9a6e-446d-abb4-02e53da3e1fd" />
+
+MAIN WINDOW + TVG URL UPDATER
 
 <img width="1360" height="768" alt="1 (4)" src="https://github.com/user-attachments/assets/29f203a2-d241-40d4-bd15-e13686949e7d" />
 
+MAIN WINDOW + GITHUB MANAGEMENT SUITE
+
 <img width="1360" height="768" alt="1 (5)" src="https://github.com/user-attachments/assets/69961cc9-75ab-4da7-a5a1-c8e695a3c851" />
+
+MAIN WINDOW + UNLIMITED MOVIES
 
 <img width="1360" height="768" alt="1 (6)" src="https://github.com/user-attachments/assets/45089cfd-ea3b-4ab8-8912-0a61bd30af96" />
 
